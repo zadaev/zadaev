@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e476ynwonj2nns1bo7u1fa6vjdzs5y3y808ymx4prg0&rid=giphy.gif&ct=g" width="290"/>
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e476ynwonj2nns1bo7u1fa6vjdzs5y3y808ymx4prg0&rid=giphy.gif&ct=g" width="350"/>
 </div>
 
 <div id="badges" align="center">
@@ -45,9 +45,7 @@
 </div>
 
 
-### :fire: My Stats :
----
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zadaev&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <!--
 **zadaev/zadaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
