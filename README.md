@@ -24,7 +24,7 @@
   ### 👨‍💻: About Me : 
   ---
  
-  I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from Uzbekistan.
+  I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">.
    
   
   - :telescope: I’m working as a Software Engineer and contributing to  backend for building web applications.
